@@ -16,14 +16,5 @@ def get_tic_tac_toe_winner(game_play: list[list[str]] )-> str | None:
     return None
     
     
-    
-    
-    
-    
-    
-    
-    
-
-
 
 print(get_tic_tac_toe_winner([["X", "O", "O"], ["O", "X", "O"], ["X", "O","X"]]))
